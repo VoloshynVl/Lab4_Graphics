@@ -1,0 +1,16 @@
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\bin\Debug\net8.0-windows\Lab4_Graphics.exe
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\bin\Debug\net8.0-windows\Lab4_Graphics.deps.json
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\bin\Debug\net8.0-windows\Lab4_Graphics.runtimeconfig.json
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\bin\Debug\net8.0-windows\Lab4_Graphics.dll
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\bin\Debug\net8.0-windows\Lab4_Graphics.pdb
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.MainForm.resources
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.csproj.GenerateResource.cache
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.AssemblyInfoInputs.cache
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.AssemblyInfo.cs
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.csproj.CoreCompileInputs.cache
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.dll
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\refint\Lab4_Graphics.dll
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.pdb
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\Lab4_Graphics.genruntimeconfig.cache
+E:\КПНУ\4 семестр кпну\Сучасні технології графічного інтерфейсу\Labs_VS\Lab4_Graphics\Lab4_Graphics\obj\Debug\net8.0-windows\ref\Lab4_Graphics.dll
